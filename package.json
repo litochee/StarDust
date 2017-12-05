@@ -1,0 +1,15 @@
+{
+  "name": "stardustbot",
+  "version": "0.0.1",
+  "description": "this bot will provide users to gain stardust and then can be used to buy roles",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "litochee",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "sqlite": "^2.9.0"
+  }
+}

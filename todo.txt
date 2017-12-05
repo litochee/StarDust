@@ -1,0 +1,30 @@
+--------------Need To Do ------------------
+!stardust
+
+check db for user 
+if user
+  get amount of stardust and respond with it
+else
+  "Sorry you don't have stardust, please enter events to get them."
+
+
+
+--------------Need To Do ------------------
+!create #
+  Check user if has StarGuardian
+  if user is StarGuardian
+    Give user # amount of stardust
+  if user is not StarGuardian
+    Sorry Access Denied
+
+!give @user
+  Check DB user
+    Is user
+      get ballance of dust
+      Enough dust?
+        Yes
+          Give @user Dust and -owner dust
+        No
+          Sorry not enough dust
+    Not user
+      Sorry you don't have stardust need to enter events to gain
